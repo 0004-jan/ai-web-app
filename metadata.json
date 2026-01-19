@@ -1,0 +1,8 @@
+{
+  "name": "Aura AI Tutor",
+  "description": "An icy-modern, interactive landing page for a futuristic AI tutoring platform, featuring real-time chat previews powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
